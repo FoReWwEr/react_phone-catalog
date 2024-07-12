@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.143eb387.css",
-    "main.js": "./static/js/main.6721dca7.js",
+    "main.css": "./static/css/main.04a605f8.css",
+    "main.js": "./static/js/main.d2c4140f.js",
     "static/js/633.ae65c1a4.chunk.js": "./static/js/633.ae65c1a4.chunk.js",
     "static/media/image 5.svg": "./static/media/image 5.3c6e405334d87d555772.svg",
     "static/media/banner-tablets.png": "./static/media/banner-tablets.3ab0c9b71cae9e04b094.png",
@@ -30,12 +30,12 @@
     "static/media/Chevron down.svg": "./static/media/Chevron down.be53fc83deb8db9c779f.svg",
     "index.html": "./index.html",
     "static/media/Minus.svg": "./static/media/Minus.a6cc83682174ac68c902.svg",
-    "main.143eb387.css.map": "./static/css/main.143eb387.css.map",
-    "main.6721dca7.js.map": "./static/js/main.6721dca7.js.map",
+    "main.04a605f8.css.map": "./static/css/main.04a605f8.css.map",
+    "main.d2c4140f.js.map": "./static/js/main.d2c4140f.js.map",
     "633.ae65c1a4.chunk.js.map": "./static/js/633.ae65c1a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.143eb387.css",
-    "static/js/main.6721dca7.js"
+    "static/css/main.04a605f8.css",
+    "static/js/main.d2c4140f.js"
   ]
 }
